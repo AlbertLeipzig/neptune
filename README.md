@@ -1,11 +1,11 @@
 # neptune
 
-##INTRODUCTION
+## INTRODUCTION
 
 Neptune is a library that offers a modular building system for styling a react application based on scss and heavily inspired by atomic design and BEM.
 
 
-##BEGRÜNDUNG
+## BEGRÜNDUNG
 
 Many developers hate vanilla CSS. To be honest, I know no developer who doesn't struggle at least once in a while with CSS. Even it happens, that you have a perfect relation with CSS, a lot of tasks will be needed to complete by every new application, a big part of which is repetitive and not particularly creative or inspiring. That's why so many devs use CSS-Frameworks.
 And there's nothing intrinsically wrong with CSS-Frameworks. The best tool is the tool that helps you. It's just... I don't particularly like them. I have three main issues with them:
@@ -18,16 +18,16 @@ I don't find CSS-Frameworks particularly efficient. Yes, it may be efficient at 
 	c) Since the whole system is modular, every file has just one task. That makes the code tidy, “consequent” and easier to refactor.
 
 
-##MISSION
+## MISSION
 
 Think less. Create more, 
 
 
-##OBJECTIVES
+## OBJECTIVES
 Unite the flexibility of scss with the headache-free of a css framework and put it in the hands of developers
 
 
-##PROJECTS
+## PROJECTS
 
 The project will have 2 main parts:
 Library as npm package
@@ -38,7 +38,7 @@ Documentation site
 Aditionally, a documentation site for the developer is needed.
 
 
-##DESCRIPTION
+## DESCRIPTION
 Library as npm package
 Create a library { react components + scss files [ + images for the UI elements & layouts ]} that is modular, consistent, easy to scale and refactor, with a certain amount of UI components and layouts.
 Simple and basic animations for certain elements that must be reactive (buttons, links and the alike)
