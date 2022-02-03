@@ -5,7 +5,7 @@
 Neptune is a library that offers a modular building system for styling a react application based on scss and heavily inspired by atomic design and BEM.
 
 
-## BEGRÜNDUNG
+### BEGRÜNDUNG
 
 Many developers hate vanilla CSS. To be honest, I know no developer who doesn't struggle at least once in a while with CSS. Even it happens, that you have a perfect relation with CSS, a lot of tasks will be needed to complete by every new application, a big part of which is repetitive and not particularly creative or inspiring. That's why so many devs use CSS-Frameworks.
 And there's nothing intrinsically wrong with CSS-Frameworks. The best tool is the tool that helps you. It's just... I don't particularly like them. I have three main issues with them:
